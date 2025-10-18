@@ -1,0 +1,3 @@
+The project uses the CICIDS2017 dataset developed by the Canadian Institute for Cybersecurity (CIC), which contains realistic network traffic data including various types of normal and attack scenarios (e.g., DDoS, PortScan, Brute Force, etc.).
+
+🔗 Access the CICIDS2017 Dataset here
