@@ -28,4 +28,37 @@ This project leverages **Big Data frameworks** to process large volumes of netwo
 | **Data Handling** | Pandas, NumPy |
 | **Environment** | Jupyter Notebook |
 
+📚 Dataset
+
+The dataset used includes network flow-level information such as:
+
+Source/Destination IP and Port
+
+Flow Duration
+
+Packet Counts (Forward & Backward)
+
+Packet Length Statistics
+
+Flow Bytes per Second, Packets per Second, etc.
+
+(Specify dataset source if applicable — e.g., CICIDS2017, UNSW-NB15, etc.)
+
+🧠 Insights
+
+Identified key features that distinguish malicious traffic.
+
+Observed abnormal flow behaviors in DDoS and PortScan attacks.
+
+Developed interactive Tableau visuals for non-technical stakeholders.
+
+👥 Contributors
+Name	Role
+Kartik Srivastava	Data Processing & Model Development
+Sounaq Das	Data Analysis & Dashboard Integration
+Devipriya A	Visualization & Report Compilation
+🏁 Conclusion
+
+This project demonstrates how Big Data analytics and visual intelligence can empower network administrators to detect, monitor, and respond to cyber intrusions effectively. The combination of PySpark for scalable computation and Tableau for visualization creates a powerful end-to-end analysis pipeline.
+
 
